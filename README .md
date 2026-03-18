@@ -162,7 +162,7 @@ sunny = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sunnyykadam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sunnyykadam&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 
 </div>
 
