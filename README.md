@@ -59,28 +59,38 @@ sunny = {
 
 <div align="center">
 
-### 💬 Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark" />
+### 💬 Core Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
 
-### 🤖 AI / ML / Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+### 🤖 AI / ML Frameworks
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 
 <br/>
 
-<!-- Badges for libraries not in skillicons -->
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css&theme=dark" />
+### 🧠 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Databases & Cloud Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-### ⚙️ Dev Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+### ⚙️ Dev Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
@@ -131,9 +141,9 @@ sunny = {
 
 | 🧠 AI / ML Projects | 🌐 Web Projects |
 |:-:|:-:|
-| <a href="https://github.com/Sunnyykadam/data-driven-stock-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=data-driven-stock-analyzer&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/Sunnyykadam/online-canteen-ordering-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=online-canteen-ordering-system&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/Sunnyykadam/data-driven-stock-analyzer-webapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=data-driven-stock-analyzer-webapp&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/Sunnyykadam/online-food-ordering-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=online-food-ordering-system&theme=tokyonight&hide_border=true" /></a> |
 | 📈 A real-time **stock prediction web app** powered by **Linear Regression** and live market API integrations. Transforms raw financial data into actionable buy/sell signals. | 🍱 A smart **college canteen ordering system** designed to eliminate daily queues and streamline order management through a seamless digital experience. |
-| <a href="https://github.com/Sunnyykadam/morphui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=morphui&theme=tokyonight&hide_border=true" /></a> | |
+| <a href="https://github.com/Sunnyykadam/ravenclaw-morphui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=ravenclaw-morphui&theme=tokyonight&hide_border=true" /></a> | |
 | 🧩 A **Generative AI-powered Chrome Extension** that dynamically redesigns any webpage to user preference — with built-in accessibility modes for **color blindness, dyslexia**, and more. | |
 
 </div>
