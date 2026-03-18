@@ -162,7 +162,15 @@ sunny = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sunnyykadam&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
+<!-- Trophy row using reliable shields.io badges -->
+![GitHub followers](https://img.shields.io/github/followers/Sunnyykadam?label=Followers&style=for-the-badge&color=39d353&labelColor=0d1117)
+![GitHub stars](https://img.shields.io/github/stars/Sunnyykadam?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117)
+![GitHub commits](https://img.shields.io/badge/Commits-100%2B-58a6ff?style=for-the-badge&labelColor=0d1117)
+![GitHub repos](https://img.shields.io/badge/Repos-Public-a855f7?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sunnyykadam&theme=darkhub&no-frame=false&no-bg=false&column=4&margin-w=10&margin-h=10" width="90%" />
 
 </div>
 
