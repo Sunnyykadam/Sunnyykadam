@@ -174,7 +174,18 @@ sunny = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunnyykadam&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=f0e68c&area=true&hide_border=true" width="95%" />
+<!-- Yearly contribution heatmap -->
+<img src="https://ghchart.rshah.org/39d353/Sunnyykadam" alt="Sunnyykadam's Github chart" width="95%" />
+
+<br/><br/>
+
+<!-- Commit activity line graph — area style, dark theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunnyykadam&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=Sunnyy%27s+Commit+Activity&radius=6&theme=react-dark" width="95%" />
+
+<br/>
+
+<!-- 30-day commit frequency -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunnyykadam&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true&custom_title=Last+30+Days+Activity&days=30&radius=6" width="95%" />
 
 </div>
 
