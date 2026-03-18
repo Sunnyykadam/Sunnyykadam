@@ -10,9 +10,7 @@
 
 <!-- ── ANIMATED TYPING ───────────────────────────────────────────────────────── -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+ML+%26+AI+Enthusiast;📊+Data+Science+Explorer;🧠+Building+Intelligent+Systems;🌐+Full-Stack+Developer+(when+needed);☕+Fueled+by+Chai+%26+Curiosity" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A7%A0;Computer+Engineering+%7C+Class+of+2027+%F0%9F%8E%93;Fueled+by+Chai+%26+Curiosity+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
@@ -60,37 +58,27 @@ sunny = {
 <div align="center">
 
 ### 💬 Core Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript&theme=dark" />
 
 ### 🤖 AI / ML Frameworks
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-
-<br/>
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" />
 
 ### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🧠 Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 
 ### ⚙️ Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
 
 </div>
 
