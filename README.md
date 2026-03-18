@@ -6,7 +6,7 @@
 
 <!-- ── HEADER BANNER ────────────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20Sunny%20Kadam%20%F0%9F%91%8B&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Building%20intelligent%20systems%2C%20one%20model%20at%20a%20time.&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20Sunnyy%20Kadam%20%F0%9F%91%8B&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Building%20intelligent%20systems%2C%20one%20model%20at%20a%20time.&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
 
 <!-- ── ANIMATED TYPING ───────────────────────────────────────────────────────── -->
 
@@ -18,9 +18,9 @@
 
 <!-- ── PROFILE VIEWS + FOLLOWERS ────────────────────────────────────────────── -->
 
-<img src="https://komarev.com/ghpvc/?username=Sunnnyykadam&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Sunnyykadam&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Sunnnyykadam?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/Sunnyykadam?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" alt="GitHub Followers" />
 
 </div>
 
@@ -28,11 +28,11 @@
 
 <!-- ── ABOUT ME ───────────────────────────────────────────────────────────────── -->
 
-## 🧑💻 About Me
+## 🧑‍💻 About Me
 
 ```python
 sunny = {
-    "name"        : "Sunny Kadam",
+    "name"        : "Sunnyy Kadam",
     "role"        : "AI/ML Engineer & B.E. Computer Engineering Student",
     "university"  : "Class of 2027 🎓",
     "location"    : "India 🇮🇳",
@@ -94,14 +94,14 @@ sunny = {
 
 | 🏆 Overall Stats | 🗣️ Top Languages |
 |:-:|:-:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Sunnnyykadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnnyykadam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Sunnyykadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyykadam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" /> |
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunnnyykadam&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunnyykadam&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
@@ -114,9 +114,9 @@ sunny = {
 ### 🐍 Watch My Contributions Get Eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sunnnyykadam/Sunnnyykadam/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sunnnyykadam/Sunnnyykadam/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sunnnyykadam/Sunnnyykadam/output/github-contribution-grid-snake.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sunnyykadam/Sunnyykadam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sunnyykadam/Sunnyykadam/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sunnyykadam/Sunnyykadam/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
 </div>
@@ -131,9 +131,9 @@ sunny = {
 
 | 🧠 AI / ML Projects | 🌐 Web Projects |
 |:-:|:-:|
-| <a href="https://github.com/Sunnnyykadam/data-driven-stock-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnnyykadam&repo=data-driven-stock-analyzer&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/Sunnnyykadam/online-canteen-ordering-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnnyykadam&repo=online-canteen-ordering-system&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/Sunnyykadam/data-driven-stock-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=data-driven-stock-analyzer&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/Sunnyykadam/online-canteen-ordering-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=online-canteen-ordering-system&theme=tokyonight&hide_border=true" /></a> |
 | 📈 A real-time **stock prediction web app** powered by **Linear Regression** and live market API integrations. Transforms raw financial data into actionable buy/sell signals. | 🍱 A smart **college canteen ordering system** designed to eliminate daily queues and streamline order management through a seamless digital experience. |
-| <a href="https://github.com/Sunnnyykadam/morphui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnnyykadam&repo=morphui&theme=tokyonight&hide_border=true" /></a> | |
+| <a href="https://github.com/Sunnyykadam/morphui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnyykadam&repo=morphui&theme=tokyonight&hide_border=true" /></a> | |
 | 🧩 A **Generative AI-powered Chrome Extension** that dynamically redesigns any webpage to user preference — with built-in accessibility modes for **color blindness, dyslexia**, and more. | |
 
 </div>
@@ -164,7 +164,7 @@ sunny = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sunnnyykadam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sunnyykadam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
 
 </div>
 
@@ -176,7 +176,7 @@ sunny = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunnnyykadam&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=f0e68c&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunnyykadam&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=f0e68c&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -196,7 +196,7 @@ sunny = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://github.com/Sunnnyykadam">
+<a href="https://github.com/Sunnyykadam">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
